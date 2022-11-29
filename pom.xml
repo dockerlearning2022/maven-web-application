@@ -147,6 +147,13 @@
 				</configuration>
 			</plugin>
 			
+			<!-- Plugin i added -->
+			  <plugin>
+			        <groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-war-plugin</artifactId>
+				<version>3.3.1</version>
+			 </plugin> 
+			
 </plugins>
 	</build>
 	
